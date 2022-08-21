@@ -13,6 +13,6 @@ class PaymentScreen extends StatelessWidget {
           title: Text(title),
         ),
       ),
-    );
+    );  
   }
 }

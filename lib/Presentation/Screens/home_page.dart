@@ -15,6 +15,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: Text(widget.title)),
+      body: Container(),
       floatingActionButtonLocation: ExpandableFloatLocation(),
       floatingActionButton: ExpandableDraggableFab(
         childrenBoxDecoration: const BoxDecoration(color: Colors.transparent),
@@ -43,7 +44,6 @@ class _MyHomePageState extends State<MyHomePage> {
           ),
         ],
       ),
-      body: Container(),
     );
   }
 }
