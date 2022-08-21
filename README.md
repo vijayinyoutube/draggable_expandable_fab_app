@@ -1,5 +1,5 @@
 
-# <div align="center"> Draggable Expandable FAB - Pacakge Explore </div>
+# <div align="center"> Draggable Expandable FAB - Package Explore </div>
 
 <div align="center">
   
